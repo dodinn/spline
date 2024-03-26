@@ -21,3 +21,9 @@
 
 # 기본값
 
+
+![image](https://github.com/dodinn/spline/assets/163283936/eb31efc7-40e9-45b9-90df-8fae79f64552)
+![image](https://github.com/dodinn/spline/assets/163283936/4f9ca557-c506-41d3-a646-9d32964da75a)
+
+
+# 조절선을 선택할 때 주위를 전체 선택하고자 하면 먼저 조절선 하나를 선택하고 그 조절선을 더블클릭하면 전체 조절선이 선택된다.
